@@ -1,6 +1,6 @@
 👋 Hi, I’m @m1ckywill, aka Mike
 - 👀 I’m interested in home automation, self-hosting, making including keyboards and 3d printing, hacking on devices and furniture, and lots more!
-- 🌱 I’m currently learning Git, Hugo and a little about QMK and VIA
+- 🌱 I’m currently learning (and re-learning) Git, Hugo and/or Ghost, and a little about QMK and VIA
 
 📫 How to reach me
 
